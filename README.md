@@ -1,0 +1,1 @@
+[![Board Status](https://dev.azure.com/skillrampup/65e060e7-ceaa-447d-b7b6-a96edade435e/e430a55d-21d2-4a8d-bf7b-90c8b686c90d/_apis/work/boardbadge/ab99bd51-f7d8-47af-904f-54b03a632997)](https://dev.azure.com/skillrampup/65e060e7-ceaa-447d-b7b6-a96edade435e/_boards/board/t/e430a55d-21d2-4a8d-bf7b-90c8b686c90d/Microsoft.RequirementCategory)
